@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anirudngowda
+- 👋 Hi, I’m @anirudn
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on solving problems in python and webdevelopment projects
