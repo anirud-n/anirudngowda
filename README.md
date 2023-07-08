@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anirudn
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on solving problems in python and webdevelopment projects
+- 💞️ I’m looking to collaborate on solving problems in webdevelopment projects
 - 📫 How to reach me just mail to anirudngowda407@gmail.com
 
 <!---
